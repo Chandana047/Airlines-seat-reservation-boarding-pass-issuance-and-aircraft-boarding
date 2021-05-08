@@ -41,7 +41,7 @@ Refer [This](https://github.com/Chandana047/Blood-Bank-Management-System/blob/ma
 - Mounish
 
 ## ✉️ Have an issues or a bug? Would like to contact?
-Report [here]
+Report [here](https://github.com/Chandana047/Airlines-seat-reservation-boarding-pass-issuance-and-aircraft-boarding/issues)
 
 ## If you liked the project and found it helpful
 Give a start 😄:star:
