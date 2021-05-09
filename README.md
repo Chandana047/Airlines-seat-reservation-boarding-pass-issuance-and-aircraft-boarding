@@ -23,8 +23,8 @@ This website is similar to the process of web login before flight boarding. This
 3. Java JDk
 
 ## ❓ How to start?
-Refer [This](https://github.com/Chandana047/Blood-Bank-Management-System/blob/main/README.md#question-how-to-start)
-Make sure that database created is named as 'airliness'(the same name as the .sql file in sql folder).
+1. Refer [This](https://github.com/Chandana047/Blood-Bank-Management-System/blob/main/README.md#question-how-to-start)
+2. Make sure that database created is named as 'airliness'(the same name as the .sql file in sql folder).
 
 ## :information_source: The file named:
 1. 'css' contains the files for the front end pages style.
